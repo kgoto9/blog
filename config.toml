@@ -1,0 +1,5 @@
+baseURL = "http://example.com/blog/"
+publishDir = "docs"
+languageCode = "ja"
+title = "後藤のGo To BLOG"
+logoHomeLink = "/blog"
