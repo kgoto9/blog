@@ -125,16 +125,26 @@
 
     <article>
       <h1 class="post-title">
-        <a href="https://kgoto9.github.io/blog/posts/about/">Hello Hugo</a>
+        <a href="https://kgoto9.github.io/blog/posts/about/">Linuxでよく使うコマンドメモ</a>
       </h1>
 
       
 
       <div class="post-content">
         <p>Linuxでよく使うコマンドをまとめてみました。</p>
+	<p></p>
 	<h2>ファイルの検索(find)</h2>
-	<p>ファイルの中身に〇〇が含まれるファイル名を抽出</p>
-	<p>find ./ type -f print | xargs grep '検索したい文字列'
+	<p>ファイルの中身に〇〇が含まれるファイル名を抽出する。</p>
+	<p>find ./ type -f print | xargs grep '検索したい文字列'</p>
+	<p></p>
+	<h2>デイスクの容量を調べる</h2>
+	<p>ディスクの空き容量を調べる。</p>
+	<p>df -h</p>
+	<p></p>
+	<h2>コマンド履歴を検索</h2>
+	<p>実行したコマンドを検索する。</p>
+	<p>history | grep '覚えてるワード'</p>
+	<p></p>
       </div>
     </article>
 
