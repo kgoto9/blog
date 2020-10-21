@@ -8,5 +8,5 @@ canonifyurls = true
 
 [[menu.main]]
   name = "Blog"
-  url = "/posts"
+  url = "/blog/posts"
   weight = 1
