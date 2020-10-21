@@ -1,5 +1,12 @@
-baseURL = "http://example.com/blog/"
+baseURL = "https://kgoto9.github.io/blog/"
 publishDir = "docs"
 languageCode = "ja"
 title = "後藤のGo To BLOG"
 logoHomeLink = "/blog"
+theme = "hello-friend-ng"
+canonifyurls = true
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts"
+  weight = 1
