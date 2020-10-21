@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>後藤のGo To BLOG</title>
-    <link>http://example.com/blog/</link>
+    <link>https://kgoto9.github.io/blog/</link>
     <description>Recent content on 後藤のGo To BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 19 Oct 2020 18:57:27 -0700</lastBuildDate>
     
-	<atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kgoto9.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>こんにちは！後藤です！</title>
-      <link>http://example.com/blog/posts/first-article/</link>
+      <link>https://kgoto9.github.io/blog/posts/first-article/</link>
       <pubDate>Mon, 19 Oct 2020 18:57:27 -0700</pubDate>
       
-      <guid>http://example.com/blog/posts/first-article/</guid>
+      <guid>https://kgoto9.github.io/blog/posts/first-article/</guid>
       <description>Hugoでブログを作成しました。</description>
     </item>
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://example.com/blog/posts/about/</link>
+      <link>https://kgoto9.github.io/blog/posts/about/</link>
       <pubDate>Thu, 07 May 2020 11:39:39 +0900</pubDate>
       
-      <guid>http://example.com/blog/posts/about/</guid>
+      <guid>https://kgoto9.github.io/blog/posts/about/</guid>
       <description>Hello Hugo!</description>
     </item>
     
