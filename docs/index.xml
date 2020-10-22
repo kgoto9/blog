@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>こんにちは！後藤です！</title>
+      <title>Welcome！</title>
       <link>https://kgoto9.github.io/blog/posts/first-article/</link>
       <pubDate>Mon, 19 Oct 2020 18:57:27 -0700</pubDate>
       
       <guid>https://kgoto9.github.io/blog/posts/first-article/</guid>
-      <description>Hugoでブログを作成しました。</description>
+      <description>ようこそ！後藤のGo To BLOGへ！</description>
     </item>
     
     <item>
-      <title>Hello Hugo</title>
+      <title>Linuxでよく使うコマンド</title>
       <link>https://kgoto9.github.io/blog/posts/about/</link>
       <pubDate>Thu, 07 May 2020 11:39:39 +0900</pubDate>
       
       <guid>https://kgoto9.github.io/blog/posts/about/</guid>
-      <description>Hello Hugo!</description>
+      <description>Linuxでよく使うコマンドメモです。</description>
     </item>
     
   </channel>
